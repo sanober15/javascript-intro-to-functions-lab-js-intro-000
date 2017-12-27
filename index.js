@@ -26,6 +26,6 @@ function sayHiToGrandma(string){
         break;
     default:
     return "I love you, too."
-      
+
   }
 }
